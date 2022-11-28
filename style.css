@@ -1,0 +1,31 @@
+body {
+    background: #22242d;
+    color: #ffffff;
+}
+
+.gameContainer {
+    text-align: center;
+}
+
+#playground {
+    border: 10px solid #3b3f51;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.45);
+    border-radius: 10px;
+}
+
+#score_text {
+    font-family: sans-serif;
+    font-size: 100px;
+}
+
+#restart_btn {
+    font-family: sans-serif;
+    font-size: 22px;
+    padding: 14px 24px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.45);
+    background: #2d303e;
+    color: #ffffff90;
+}
